@@ -12,6 +12,6 @@ var r=require("./bundle-url").getBundleURL;function e(r){Array.isArray(r)||(r=[r
 },{"./bundle-url":"Bh1I"}],"cUwr":[function(require,module,exports) {
 module.exports=function(t){return fetch(t).then(function(t){return t.text()})};
 },{}],0:[function(require,module,exports) {
-var b=require("z1Am");b.register("html",require("cUwr"));b.load([["resume.f923a79a.html","yNhb"]]).then(function(){require("H99C");});
+var b=require("z1Am");b.register("html",require("cUwr"));b.load([["resume.04e77be7.html","yNhb"]]).then(function(){require("H99C");});
 },{}]},{},[0], null)
 //# sourceMappingURL=resume/src.0420e60b.js.map
